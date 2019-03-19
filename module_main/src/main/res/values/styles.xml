@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--StartActivity Style 冷启动效果-->
+    <style name="AppTheme.Start" tools:ignore="ResourceName">
+        <item name="android:windowBackground">@drawable/main_activity_start</item>
+    </style>
+</resources>

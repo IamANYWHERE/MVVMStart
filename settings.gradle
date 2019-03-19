@@ -1,0 +1,1 @@
+include ':app', ':library_base', ':library_res', ':module_main', ':module_sign', ':module_home', ':module_work', ':module_msg', ':module_user'
